@@ -1,4 +1,4 @@
-# SAODE_Exp
+# SAODE
 SAODE Related Experiments
 
 The "src" directory contains the ".java" files related to SAODE and multiple classifiers implementation. Inside this directory, there is a package named as "adapter" which contains the adaper to convert MOA classifiers to be compatible with Weka platform.
