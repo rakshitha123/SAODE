@@ -26,3 +26,17 @@ Datasets: We used 2 datasets with our experiments: RCV1-v2 dataset and New York 
 Data files were preprocessed using the preprocessing R scripts in "Scripts" folder and converted into ".arff" formats to compatible with Weka platform. All classifiers take one of these ".arff" file as an input containing the instances that need to be classified. These ".arff" files can be accessed through the following link.
 https://drive.google.com/file/d/1BXAPiYwB1Pom3O6UvdWzeSJwixZz0Vya/view?usp=sharing
 
+# Citing Our Work
+When using this repository, please cite:
+
+```{r} 
+@INPROCEEDINGS{9207303,
+  author={Godahewa, Rakshitha and Yann, Trevor and Bergmeir, Christoph and Petitjean, Francois},
+  booktitle={2020 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Seasonal Averaged One-Dependence Estimators: A Novel Algorithm to Address Seasonal Concept Drift in High-Dimensional Stream Classification}, 
+  year={2020},
+  pages={1-8},
+  doi={10.1109/IJCNN48605.2020.9207303}
+}
+```
+
